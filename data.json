@@ -1,0 +1,30 @@
+{
+    "challenge": [
+        {
+            "id": 1,
+            "name": "Food Challenge",
+            "description": "Lorem ipsum dolor sit amet",
+            "deadline": "15 Mei 2020" 
+        },
+        {
+            "id": 2,
+            "name": "UI Design Challenge",
+            "description": "Lorem ipsum dolor sit amet",
+            "deadline": "15 Mei 2020" 
+        }
+    ],
+    "e-learning": [
+        {
+            "id": 1,
+            "name": "Android",
+            "link": "https://developer.android.com/docs",
+            "image": "https://www.nicepng.com/png/detail/18-180932_android-png-images-picture-transparent-stock-android-jetpack.png"
+        },
+        {
+            "id": 2,
+            "name": "Swift",
+            "link": "https://swift.org/documentation/",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png"
+        }
+    ]
+}
